@@ -1,27 +1,28 @@
 <resources>
-    <string name="app_name">Traccar Manager</string>
-    <string name="app_login">Login</string>
+    <string name="app_name">Bridge Manager</string>
+    <string name="app_login">Iniciar Session</string>
 
-    <string name="error_connection">Connection error</string>
-    <string name="error_general">Server request error</string>
-    <string name="error_invalid_url">Invalid server URL</string>
+    <string name="error_connection">Error de conexión</string>
+    <string name="error_general">Error de solicitud en el servidor</string>
+    <string name="error_invalid_url">Dirección del servidor incorrecta</string>
 
-    <string name="devices_title">Devices</string>
-    <string name="settings_title">Settings</string>
-    <string name="logout_title">Logout</string>
+    <string name="devices_title">Dispositivos</string>
+    <string name="settings_title">Configuración</string>
+    <string name="logout_title">Cerrar Session</string>
 
-    <string name="settings_url">Server</string>
-    <string name="settings_email">Email</string>
-    <string name="settings_password">Password</string>
+    <string name="settings_url">Servidor</string>
+    <string name="settings_email">Correo</string>
+    <string name="settings_password">Contraseña</string>
 
     <string name="user_kn">kn</string>
     <string name="user_kmh">km/h</string>
     <string name="user_mph">mph</string>
 
-    <string name="position_time">Time</string>
-    <string name="position_latitude">Latitude</string>
-    <string name="position_longitude">Longitude</string>
-    <string name="position_speed">Speed</string>
-    <string name="position_altitude">Altitude</string>
-    <string name="position_course">Course</string>
+    <string name="position_time">Hora</string>
+    <string name="position_latitude">Latitud</string>
+    <string name="position_longitude">Longitud</string>
+    <string name="position_speed">Velocidad</string>
+    <string name="position_course">Dirección</string>	
+    <string name="position_altitude">Altitud</string>
+	
 </resources>
